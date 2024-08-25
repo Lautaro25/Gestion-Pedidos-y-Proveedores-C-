@@ -1,0 +1,65 @@
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Form1.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Properties.Resources.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\2doProyectoProgramación.csproj.GenerateResource.Cache
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\bin\Debug\2doProyectoProgramación.exe
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\bin\Debug\2doProyectoProgramación.pdb
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\2doProyectoProgramación.exe
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\2doProyectoProgramación.pdb
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Menú.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Eliminar.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Buscar.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Agregar.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Clientes.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Proveedores.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Productos.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\2doProyectoProgramación.exe
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\2doProyectoProgramación.pdb
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\bin\Debug\2doProyectoProgramación.exe.config
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\bin\Debug\2doProyectoProgramación.exe
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\bin\Debug\2doProyectoProgramación.pdb
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\2doProyectoProgramación.csprojResolveAssemblyReference.cache
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Agregar.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Buscar.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Clientes.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Eliminar.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Form1.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Menú.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Productos.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Properties.Resources.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\_2doProyectoProgramación.Proveedores.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación - copia\2doProyectoProgramación\obj\Debug\2doProyectoProgramación.csproj.GenerateResource.Cache
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\bin\Debug\2doProyectoProgramación.exe.config
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.exe
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.pdb
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\bin\Debug\2doProyectoProgramación.exe.config
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.exe
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.pdb
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\bin\Debug\2doProyectoProgramación.exe
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\bin\Debug\2doProyectoProgramación.pdb
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.csprojResolveAssemblyReference.cache
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Agregar.resources
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Buscar.resources
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Clientes.resources
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Eliminar.resources
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Form1.resources
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Menú.resources
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Productos.resources
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Properties.Resources.resources
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Proveedores.resources
+C:\Users\lauta\OneDrive\Documentos\Documentos de la Lenovo\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.csproj.GenerateResource.Cache
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\bin\Debug\2doProyectoProgramación.exe.config
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.exe
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.pdb
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\bin\Debug\2doProyectoProgramación.exe
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\bin\Debug\2doProyectoProgramación.pdb
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.csprojResolveAssemblyReference.cache
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Agregar.resources
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Buscar.resources
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Clientes.resources
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Eliminar.resources
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Form1.resources
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Menú.resources
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Productos.resources
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Properties.Resources.resources
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\_2doProyectoProgramación.Proveedores.resources
+C:\Users\lauta\OneDrive\Documentos\Proyectos Escuela\2doProyectoProgramación-copia\obj\Debug\2doProyectoProgramación.csproj.GenerateResource.Cache

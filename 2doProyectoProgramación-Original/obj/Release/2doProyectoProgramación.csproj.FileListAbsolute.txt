@@ -1,0 +1,15 @@
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\bin\Release\2doProyectoProgramación.exe
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\bin\Release\2doProyectoProgramación.pdb
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\_2doProyectoProgramación.Agregar.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\_2doProyectoProgramación.Buscar.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\_2doProyectoProgramación.Clientes.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\_2doProyectoProgramación.Eliminar.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\_2doProyectoProgramación.Form1.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\_2doProyectoProgramación.Menú.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\_2doProyectoProgramación.Properties.Resources.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\2doProyectoProgramación.csproj.GenerateResource.Cache
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\2doProyectoProgramación.exe
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\2doProyectoProgramación.pdb
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\_2doProyectoProgramación.Proveedores.resources
+C:\Users\Lautaro\Documents\Analisis y Desarrollo de Software 2°\Programación\2doProyectoProgramación\2doProyectoProgramación\obj\Release\_2doProyectoProgramación.Productos.resources
